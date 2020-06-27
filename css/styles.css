@@ -129,16 +129,10 @@ body {
   font-weight:600;
 
 }
-.copyright{
-  margin-bottom: 0;
-  padding-top: 40px;
-  color: #184d47;
-font-size: 10px;
-font-family: 'Montserrat', sans-serif;
 
-}
 .footer-link{
   padding: 0 45px;
+  margin-bottom: 30px;
     color: #11999e;
     font-size:20px;
       font-family: 'Roboto Condensed', sans-serif;
